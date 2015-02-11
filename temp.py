@@ -31,4 +31,4 @@ def temp():
         temp()
     if choice == 3:
         import converter
-        menu()
+        converter.menu()
